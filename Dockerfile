@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:22.04
 MAINTAINER Ronaldvk90 & Xantios
 
 RUN apt-get update && apt-get install -y openssh-server
